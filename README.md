@@ -2,7 +2,7 @@
  
 <h1 align="center">Hi 👋, I'm Shagufa Anjum</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src"https://dribbble.com/shots/15215756-Coding-Animation-Concept">
+<img  align="right" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept" alt="Coding" width="400">
 
 
 
