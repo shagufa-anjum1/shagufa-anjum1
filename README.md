@@ -2,7 +2,7 @@
  
 <h1 align="center">Hi 👋, I'm Shagufa Anjum</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img  align="right" src="https://images.app.goo.gl/hejF5QZxC6ppEGmK7" alt="Coding" width="400">
+<img  align="right" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" alt="Coding" width="400">
 
 
 
